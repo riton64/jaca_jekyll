@@ -1,2 +1,4 @@
 collections:
   photo_gallery:
+
+theme: jekyll-theme-minimal
